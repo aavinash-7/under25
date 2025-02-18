@@ -3,6 +3,7 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: center;
+   
 
 }
 *{margin: 0%;
@@ -154,3 +155,124 @@ h1{
     font-size: 40px;
 }
 
+.topopp{
+    display: flex;
+    flex-wrap: wrap;
+    width: 70%;
+   
+    margin-left: 14rem;
+    
+    
+}
+.tit {
+   
+    text-align: center;
+    margin-top: 11rem;
+    font-size: 40px;
+    
+}
+.view{
+    margin-top: 11rem; 
+    margin-left: 42rem;
+    width: 105px;
+    background-color: white;
+    border: 0.1px solid grey;
+    color: black;
+    border-radius: 10px;
+}
+
+.onelogo,.twologo,.threelogo,.four{
+   width: 100px;
+   margin: 10px;
+  
+}
+.cost{
+    
+  align-self: flex-end;
+    width: 60px;
+    margin: 0.5rem;
+   
+}
+
+.container{
+   display: flex;
+   flex-wrap: wrap;
+   column-gap: 2rem;
+   row-gap: 2rem;
+}
+.box{
+   margin: 1rem;
+    margin-top: 20px;
+    display: flex;
+    width: 31rem;
+    border: 0.1px solid grey;
+    border-radius: 20px;
+    
+   
+}
+.head{
+    padding-left:2rem;
+    padding-top: 1rem;
+    font-size: 20px;
+    height: 20px;
+}
+.det{
+    position: absolute;
+    margin: 0;
+    padding: 0;
+    padding-top: 3rem;
+    padding-left: 9rem;
+}
+
+.cont2{
+    margin-top: 15rem;
+}
+.container2{
+    margin-top: 7rem;
+    display: flex;
+    flex-wrap: wrap;
+    width: 70%;
+    row-gap: 2rem;
+    column-gap: 2rem;
+    margin-bottom: 15rem;
+
+    
+}
+.boxtwo{
+    text-align: center;
+    width: 20rem;
+    border:  1px solid rgb(213, 206, 206);
+    border-radius: 20px;
+    margin-left: 4rem;
+   
+}
+.innimg{
+    width: 10vh;
+    padding-top: 1.8rem;
+
+}
+.txt2{
+    font-size: 20px;
+}
+.p2{
+    font-size: 16px;
+    padding-bottom: 1.8rem;
+}
+.sss{
+    font-size: 50px;
+    margin-bottom: 40px;
+}
+.sssp{
+    font-size: 25px;
+    margin-bottom: 4rem;
+}
+.lastpic{
+    width: 20vh;
+    margin-left: 4rem;
+}
+
+.last{
+    width: 70%;
+    display: flex;
+    flex-wrap: wrap;
+}
